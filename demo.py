@@ -16,3 +16,7 @@ def main():
 
 if __name__ == "__main__":
     main()
+
+
+def subtract(a, b):
+    return a - b
